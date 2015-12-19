@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="net.shiningweb.charades_boss" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="net.andrewl.charades_boss" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Charades Boss</name>
     <description>
         It's Charades Boss!
     </description>
-    <author email="charades_boss@shiningweb.net" href="http://shiningweb.net">
-        Shining Web Ltd
+    <author email="charades_boss@andrewl.net" href="http://andrewl.net">
+        Andrew Larcombe
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
